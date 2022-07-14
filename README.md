@@ -6,4 +6,4 @@
 
 #### Our development system is made with Notion using Agile Methodologies and Conventional Commits.
 
-#### You can see our front-end repository in this link: [Notes App Front-end](https://github.com/lorismilloni/notes-app-frontend)
+#### You can see our back-end repository in this link: [Notes App Back-end](https://github.com/lorismilloni/notes-app-backend)
